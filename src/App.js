@@ -3,20 +3,10 @@ import TaskBox from "./components/TaskBox";
 
 const tasks = [
   {
-    name: "Beads",
-    logoImport: import("./logos/beads.svg"),
-    link: "https://borton-task-beads.web.app",
-  },
-  {
-    name: "MSIT",
-    logoImport: import("./logos/msit.svg"),
-    link: "https://borton-task-msit.web.app",
-  },
-  {
-    name: "Provocation",
-    logoImport: import("./logos/provocation.svg"),
-    link: "https://borton-task-provocation.web.app",
-  },
+    name: "Hello",
+    logoImport: import("./logos/tripledip-logo.drawio.svg"),
+    link: "https://hello-honeycomb.web.app/",
+  }
 ];
 
 function App() {
